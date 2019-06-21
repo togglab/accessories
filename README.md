@@ -1,2 +1,3 @@
 # kenSUN
-## A shopify webpage for sunglasses and bracelets
+
+######### A shopify webpage for sunglasses and bracelets
