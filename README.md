@@ -1,4 +1,4 @@
-# Custom-made Shopify App
+# Custom-made Shopify App [!Awesome]
 
 Fully functining project with updated functionalities.
 
