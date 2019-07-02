@@ -1,4 +1,5 @@
-# Custom-made Shopify App
+# Custom-made Shopify App [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 
 Fully functining project with updated functionalities.
 
@@ -24,11 +25,6 @@ Admin can update stock.
 ## Additional Featues
 
 Users can rate items.
-
-## Main Development Unit
-
-Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation and other interface components.
-
 
 ## Further help
 
